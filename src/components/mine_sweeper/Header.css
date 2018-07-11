@@ -1,0 +1,34 @@
+.header {
+  height: 48px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header__button, .header__mine-count {
+  border: 1px solid grey;
+  padding: 4px;
+}
+
+.header__button-new-game {
+  height: 36px;
+  padding: 4px 12px;
+  border-radius: 4px;
+}
+
+.header__center-buttons-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 200px;
+}
+
+.header__button-img-container, .header__mine-count {
+  height: 30px;
+  width: 30px;
+}
+
+.header__button-img {
+  height: 100%;
+  width: 100%;
+}
