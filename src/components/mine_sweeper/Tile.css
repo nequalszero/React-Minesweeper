@@ -1,0 +1,16 @@
+.tile {
+  display: inline-block;
+  border: 1px solid black;
+  height: 24px;
+  width: 24px;
+  line-height: 24px;
+}
+
+.display-image {
+  height: 100%;
+  width: 100%;
+}
+
+.losing-tile {
+  background-color: red;
+}
