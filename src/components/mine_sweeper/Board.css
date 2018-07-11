@@ -1,0 +1,12 @@
+.board-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.board {
+  border: 1px solid black;
+}
+
+.row {
+  height: 24px;
+}
